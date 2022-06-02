@@ -1,0 +1,15 @@
+{
+    "name": "wanzi/design",
+    "autoload": {
+        "psr-4": {
+            "Wanzi\\Design\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "10693",
+            "email": "jiangwei91@addcn.com"
+        }
+    ],
+    "require": {}
+}
